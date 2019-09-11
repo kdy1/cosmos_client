@@ -1,4 +1,4 @@
-#![allow(bare_trait_objects)]
+#![allow(bare_trait_objects, non_snake_case, unused_mut, unused_imports, dead_code)]
 
 #[macro_use]
 extern crate serde_derive;
